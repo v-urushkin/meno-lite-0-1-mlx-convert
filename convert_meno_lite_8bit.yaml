@@ -1,0 +1,6 @@
+hf_path: original_models/meno-lite-0.1
+mlx_path: converted_model/meno-lite-0.1-mlx-mxfp8
+quantize: true
+q_mode: mxfp8
+q_bits: 8
+q_group_size: 32
