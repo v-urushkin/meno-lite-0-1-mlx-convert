@@ -6,8 +6,9 @@
 # (last commit that modified the file; repo HEAD at fetch time was d77256999f211f8c0a5b12d13564f48d685b59e7,
 # file content is identical at both commits)
 # License: MIT -- see tools/llama.cpp.LICENSE
-# Note: requires the 'gguf' package and the 'conversion' package from llama.cpp
-# (it is vendored here for reference, not as a standalone script).
+# Note: the 'conversion' package is vendored next to this script (see tools/conversion/);
+# the 'gguf' package is still required (gguf-py from llama.cpp or pip install gguf).
+# It is vendored here for reference, not as a standalone script.
 
 from __future__ import annotations
 
