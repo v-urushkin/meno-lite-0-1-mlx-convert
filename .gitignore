@@ -221,3 +221,5 @@ __marimo__/
 
 
 original_models/meno-lite-0.1/*
+converted_model/*
+.plans/
